@@ -10,7 +10,7 @@ a {
   overflow: auto;
   max-height: 100vh;
   background-color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Comfortaa', cursive;
 }
 
 .leftcontent {
@@ -39,7 +39,6 @@ a {
 
 .name {
   margin-bottom: 40px;
-  font-family: 'Comfortaa', cursive;
   color: #1d7791;
   font-size: 30px;
   line-height: 100%;
